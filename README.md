@@ -39,6 +39,8 @@ Clone the repository and install requirements:
 git clone https://github.com/<your-username>/statistical-methods-dice-simulation.git
 cd statistical-methods-dice-simulation
 pip install -r requirements.txt
-
+```
 Run a task, for example:
+```bash
 python tasks/task42.py
+```
